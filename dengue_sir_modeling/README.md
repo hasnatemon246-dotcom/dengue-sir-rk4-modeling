@@ -29,5 +29,5 @@ An end-to-end Data Science and Mathematical Modeling project analyzing Dengue ep
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/dengue-sir-rk4-modeling.git](https://github.com/your-username/dengue-sir-rk4-modeling.git)
+   git clone https://github.com/hasnatemon246-dotcom/dengue-sir-rk4-modeling.git
    cd dengue-sir-rk4-modeling
