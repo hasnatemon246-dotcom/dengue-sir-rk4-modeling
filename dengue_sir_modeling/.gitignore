@@ -1,0 +1,13 @@
+# Python environment & cache
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Downloaded PDFs (optional: keep repo light)
+*.pdf
+dghs_pdfs/
+
+# OS specific files
+.DS_Store
+Thumbs.db
